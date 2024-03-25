@@ -40,12 +40,6 @@ Las contribuciones son bienvenidas. Si deseas colaborar en este proyecto, sigue 
 4. Haz push de tu rama (`git push origin feature/mejora`).
 5. Abre un Pull Request.
 
-## Previsualización
-
-![Vista previa de la página web](webpreview.png)
-
-*Captura de pantalla de la página web de SEDUZAC: Una vista previa visual de la interfaz actual del sitio web de la Secretaría de Educación Pública de Zacatecas (SEDUZAC), mostrando el diseño actual y la disposición de los elementos.*
-
 
 ## Contacto
 
