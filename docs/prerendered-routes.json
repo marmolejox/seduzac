@@ -1,8 +1,0 @@
-{
-  "routes": [
-    "/",
-    "/alumnos",
-    "/aplicaciones",
-    "/docentes"
-  ]
-}
