@@ -1,5 +1,9 @@
 # SEDUZAC https://www.seduzac.gob.mx
 
+<p align="center">
+  <img src="/Mockup.png" alt="Mockup Homepage">
+</p>
+
 [ES]
 
 Este repositorio contiene propuestas de actualización de interfaz para el sitio web de la Secretaría de Educación Pública de Zacatecas (SEDUZAC), con el objetivo de mejorar la experiencia del usuario.
