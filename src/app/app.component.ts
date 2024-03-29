@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { NavbarComponent } from "./navbar/navbar.component";
 import { FooterComponent } from "./footer/footer.component";
+import { initFlowbite } from 'flowbite';
 
 @Component({
     selector: 'app-root',
@@ -12,4 +13,9 @@ import { FooterComponent } from "./footer/footer.component";
 })
 export class AppComponent {
   title = 'seduzac';
+
+  ngOnInit(): void {
+    initFlowbite();
+  }
+
 }
